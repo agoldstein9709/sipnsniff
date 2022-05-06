@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /blog/
+Disallow: /bs/
+Disallow: /css/
+Disallow: /meta/
+Disallow: /keebspace/
+Sitemap: https://sipnsniff.com/sitemap.xml
